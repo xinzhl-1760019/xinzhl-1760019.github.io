@@ -20,13 +20,28 @@
 }
 
 
-
-#P1{
-	text-align: center;
+#la{
+	background-image: url(p1.jpg);
+	background-size: 50px 50px;
+	background-repeat: no-repeat;
+	height: 50px;
+	width: 50px;
+	font-size: 8pt;
 }
 
-p4{
-	position:abosulte;
-	top:10px;
-	left:25px;
+#lala{
+	position: absolute;
+	top: 10px;
+	left: 15px;
+}
+
+#P2{
+	margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#P3{
+	float: right;
 }
