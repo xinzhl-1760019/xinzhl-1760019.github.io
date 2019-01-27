@@ -1,0 +1,24 @@
+/* CSS Document */
+#Paragraph{
+	text-align: center;
+}
+
+#Picture{
+	text-align: center; 
+}
+
+#Content1{
+	border: dotted 8px black;
+}
+
+
+
+#P1{
+	text-align: center;
+}
+
+p4{
+	position:abosulte;
+	top:10px;
+	left:25px;
+}
